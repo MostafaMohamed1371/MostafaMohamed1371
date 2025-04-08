@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋 </h1>
 
-<h3 align="center">I'm flutter&native android developer (java & kotlin & dart).</h3>
+<h3 align="center">I'm software dedveloper laravel&flutter&native android developer (php & java & kotlin & dart).</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abdallah-mekky)
 ![GitHub followers](https://img.shields.io/github/followers/abdallah-mekky?style=social)
 
 - 🔭 I’m currently working **As Freelancer.**
 
-- 💬 Ask me about **anything about flutter & android development.**
+- 💬 Ask me about **anything about laravel & flutter & android development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
